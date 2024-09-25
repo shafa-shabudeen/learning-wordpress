@@ -1,0 +1,5 @@
+wp-content/uploads/
+wp-config.php
+.htaccess
+wp-content/plugins/
+wp-content/themes/your-theme/
